@@ -1,4 +1,4 @@
-import asyncdispatch, ssh2, ssh2/scp, asyncfutures, asyncftpclient, std/parseopt, strutils, sequtils
+import asyncdispatch, ssh2, ssh2/scp, asyncfutures, asyncftpclient,  strutils
 
  
  
